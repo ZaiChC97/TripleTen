@@ -37,4 +37,4 @@ pip install streamlit plotly pandas
 
 ## URL de la Aplicación
 
-La aplicación web está disponible en: [https://tripleten-ez7d.onrender.com](https://tripleten-ez7d.onrender.com).
+La aplicación web está disponible en: [https://tripleten-ez7d.onrender.com](https://tripleten-ez7d.onrender.com)
